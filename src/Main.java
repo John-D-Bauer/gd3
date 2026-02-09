@@ -4,5 +4,8 @@ public class Main {
 
         System.out.println("Lowkirkenuinely, this is sick");
 
+
+        System.out.println("skibidi beep bop");
+
     }
 }
