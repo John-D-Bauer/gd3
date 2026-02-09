@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Hello, World!");
 
         System.out.println("Lowkirkenuinely, this is sick");
+
+
+        System.out.println("Erm what the sigma");
     }
 }
